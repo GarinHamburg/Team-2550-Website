@@ -1,7 +1,7 @@
 # Team Website Code
-Personal Testing Repository for Total
-Upgrade and restructuring of the Team Website
-CSS, HTML, and JavaScript.
+Personal Testing Repository for Total<br>
+Upgrade and restructuring of the Team Website<br>
+CSS, HTML, and JavaScript.<br>
 [[Link]](http://team2550.blogspot.com/)
 
 # Images
